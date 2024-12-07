@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - L_Target
+  - Vertical_Target
+  - Horizontal_Target
+  - Wrong_Target
+  - Reverse_L_Target
+  - Cube_Target
+  - Horizontal_1_Target
   layers:
   - Default
   - TransparentFX
